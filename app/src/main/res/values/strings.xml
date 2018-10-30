@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Moja własna klawiaturka</string>
+    <string name="simple_ime">Klawiaturka</string>
+    <string name="subtype_en_US">Bez słownika</string>
+</resources>
